@@ -1,0 +1,4 @@
+{
+    "dbhost":"hostname_secret",
+    "jwtPrivate":"book_jwtPrivate"
+}
